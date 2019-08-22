@@ -1,5 +1,11 @@
 header {
-    background-color: teal;
+    background-color: #ffffff;
     color: white;
-    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid 1px #cccccc;
+}
+h2 {color: #4aaaa5;
+}
+.main-bio {
+    background-color:#ffffff;
 }
