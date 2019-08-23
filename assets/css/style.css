@@ -25,14 +25,17 @@ h2 {color: #4aaaa5;
     padding: 10px;
 }    
 #bio-image {
-    width: 240px;
-    height: 320px;
-    padding-top: 20px;
+    width: 192px;
+    height: 256px;
+    padding: 20px;
+    float: left;
 }
 .container {
     width: 960px;
+    height: auto;
 }
 p {  font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
 }
 #id {
     color:black;
