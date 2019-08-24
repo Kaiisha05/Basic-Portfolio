@@ -1,19 +1,21 @@
 body {
     margin-top: 0;
-    background: lightgray
+    background-image:url(https://img.freepik.com/free-vector/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg?size=626&ext=jpg) 
 }
 header {
-    height: 86px;
     background-color: #ffffff;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    float: right;
 }
 h1 {
     background-color: #4aaaa5;
     padding: 25px;
     margin: 0;
     width:235px;
-    float: left;
 }
 h2 {color: #4aaaa5;
     margin: 0;
@@ -40,8 +42,11 @@ h2 {color: #4aaaa5;
 p {  font-family: Arial, Helvetica, sans-serif;
     color: #777777;
 }
-#id {
-    color:black;
-    text-align: right;
+a:link {
+    text-decoration: none;
+    color: #777777;
 }
-      
+footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+}
