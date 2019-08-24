@@ -1,8 +1,9 @@
 body {
     margin-top: 0;
+    background: lightgray
 }
 header {
-    margin-left: 150px;
+    height: 86px;
     background-color: #ffffff;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,6 +13,7 @@ h1 {
     padding: 25px;
     margin: 0;
     width:235px;
+    float: left;
 }
 h2 {color: #4aaaa5;
     margin: 0;
@@ -33,6 +35,7 @@ h2 {color: #4aaaa5;
 .container {
     width: 960px;
     height: auto;
+    margin-top: 20px;
 }
 p {  font-family: Arial, Helvetica, sans-serif;
     color: #777777;
@@ -41,3 +44,4 @@ p {  font-family: Arial, Helvetica, sans-serif;
     color:black;
     text-align: right;
 }
+      
