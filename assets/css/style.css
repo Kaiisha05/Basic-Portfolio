@@ -9,7 +9,10 @@ header {
 }
 
 nav {
-    float: right;
+    position: absolute;
+    right: 30px;
+    top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     background-color: #4aaaa5;
