@@ -44,3 +44,12 @@ h1 {
     max-width: 250px;
     margin-left: 45px;
 }
+.Hangman {
+    position: absolute;
+    background-color: #4aaaa5;
+    color:#ffffff;
+    margin: 185px 2px;
+    width: 200px;
+    text-align: center;
+    padding:0;
+}
